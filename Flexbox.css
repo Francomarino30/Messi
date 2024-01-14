@@ -1,0 +1,16 @@
+#LIONEL {
+    position: relative; left: 350px;
+    font-size: 50px;
+}
+#Thegoat {
+    position: relative; left: 500px;
+    font-size: 50px;
+}
+.Imagenes {
+    position: relative; left: 270px;
+    width: 350px;
+    height: 350px;
+}
+.Search {
+    position: relative; left: 500px;
+}

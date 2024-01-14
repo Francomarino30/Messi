@@ -1,0 +1,19 @@
+.Imagenes {
+    height: 250px; width: 350px;
+}
+#LIONEL{ 
+    color:coral; 
+    background-color: aqua;
+    
+    
+}
+#LIONEL:hover{
+    color:blueviolet;
+    background-color: black;
+}
+#Thegoat{ 
+    color:hotpink
+}
+#Thegoat:hover{
+    color:goldenrod
+}
